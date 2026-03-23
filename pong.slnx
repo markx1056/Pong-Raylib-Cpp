@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pong.vcxproj" Id="4074a011-593d-4d9e-b1e5-4b42c21933fe" />
+</Solution>
