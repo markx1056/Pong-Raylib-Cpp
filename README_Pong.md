@@ -43,32 +43,6 @@
 
 ---
 
-## 🚀 How to Run
-
-**1. Clone the repository**
-```bash
-git clone https://github.com/your-username/pong-vs-computer.git
-cd pong-vs-computer
-```
-
-**2. Install Raylib**
-
-Follow the official setup guide for your platform: [https://github.com/raysan5/raylib#build-and-installation](https://github.com/raysan5/raylib#build-and-installation)
-
-**3. Compile**
-```bash
-g++ -std=c++17 -o pong main.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
-```
-
-**4. Run**
-```bash
-./pong
-```
-
-> High scores are automatically loaded from `highscores.txt` on startup and saved on exit.
-
----
-
 ## 🎮 Controls
 
 | Action | Key |
